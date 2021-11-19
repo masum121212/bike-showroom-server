@@ -1,7 +1,7 @@
 {
   "name": "bike-house-server",
   "version": "1.0.0",
-  "description": "- Welcome to Bike House! We are one of the biggest bicycle-families in the world. Our services search of a perfect bike for every customer, sport events organization and much more. Join our community and become a part of the bike-family.",
+  "description": "- Hero MotoCorp Limited, formerly Hero Honda, is an Indian multinational motorcycle and scooter manufacturer headquartered in New Delhi, India. The company is the largest two-wheeler manufacturer in the world, and also in India, where it has a market share of about 37.1% in the two-wheeler industry.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
