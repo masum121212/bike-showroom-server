@@ -1,0 +1,21 @@
+{
+  "name": "bike-house-server",
+  "version": "1.0.0",
+  "description": "- Welcome to Bike House! We are one of the biggest bicycle-families in the world. Our services search of a perfect bike for every customer, sport events organization and much more. Join our community and become a part of the bike-family.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.4"
+  },
+  "devDependencies": {}
+}
